@@ -16,6 +16,7 @@ Global
 		BMI\BMI\BMI.projitems*{60c83cc7-d6ef-4b9d-a708-9f46e1566885}*SharedItemsImports = 4
 		BMI\BMI\BMI.projitems*{7bc1814e-fdca-400f-a153-be41069f4dab}*SharedItemsImports = 13
 		BMI\BMI\BMI.projitems*{981b0249-39df-40f2-a445-995b2bf4897b}*SharedItemsImports = 4
+		BMI\BMI\BMI.projitems*{e66e24ea-8a60-4f9c-98a3-640fa8fe3449}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
