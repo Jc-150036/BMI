@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:BMI"
              x:Class="BMI.MainPage">
     <ContentPage.Content>
+        
         <StackLayout>
             <Label Text="JK3A16 佐藤柊" />
             <Label Text="伸長を入力してください"
