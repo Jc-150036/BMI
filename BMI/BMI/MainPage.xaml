@@ -25,6 +25,7 @@
                    HorizontalOptions="CenterAndExpand" />
 
             <Button Text="BMIを計算します"
+                    Clicked="Button_Clicked"
                     x:Name="BMIButton"
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand" />
