@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>BMI</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.BMI</string>
+	<string>jp.jc21.BMI</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
@@ -47,6 +47,6 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen.storyboard</string>
 	<key>MinimumOSVersion</key>
-	<string>10.0</string>
+	<string>10.3</string>
 </dict>
 </plist>
