@@ -16,6 +16,9 @@ namespace BMI
 
         private void Button_Clicked(object sender, EventArgs e)
         {
+            double dHeight = double.Parse(height.Text);
+
+
             DisplayAlert("BMI", "デブ", "OK");
         }
     }
