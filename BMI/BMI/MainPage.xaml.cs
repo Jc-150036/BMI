@@ -16,7 +16,7 @@ namespace BMI
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-
+            DisplayAlert("BMI", "太りすぎ", "OK");
         }
     }
 }

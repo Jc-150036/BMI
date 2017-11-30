@@ -8,24 +8,27 @@
         <StackLayout>
             <Label Text="JK3A16 佐藤柊" />
             <Label Text="伸長を入力してください"
-                   HorizontalOptions="Center" />
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand" />
 
             <Entry Text="160.0"
-                   HorizontalOptions="Center" />
+                   x:Name="height"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"/>
 
             <Label Text="体重を入力してください"
-                   HorizontalOptions="Center" />
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand" />
 
             <Entry Text="50"
-                   HorizontalOptions="Center" />
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand" />
 
             <Button Text="BMIを計算します"
-                    Clicked="Button_Clicked"
-                   HorizontalOptions="Center" />
+                    x:Name="BMIButton"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand" />
             
-            
-            
-
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
