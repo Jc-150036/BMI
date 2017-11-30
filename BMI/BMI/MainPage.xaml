@@ -20,7 +20,10 @@
                    HorizontalOptions="Center" />
 
             <Button Text="BMIを計算します"
+                    Clicked="Button_Clicked"
                    HorizontalOptions="Center" />
+            
+            
             
 
         </StackLayout>
